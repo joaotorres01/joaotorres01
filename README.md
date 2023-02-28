@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm João Torres</h1>
 
-<!--
-**joaotorres01/joaotorres01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Master's Degree student in Informatics Engineering @ University of Minho
+  - Intelligent Systems (AI)
+  - Knowledge Engineering (DB)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"> ☎️ Contact me! </h1>
+<div align="center">
+  <a href="mailto:joao-torres01@hotmail.com"><img src="https://img.shields.io/badge/-Email-c71610?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/joaotorres01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ </div>
+ 
+---
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=joaotorres01&count_private=true&show_icons=true&theme=nord&hide=contribs&hide_border=true"/>
+<img style="height: 170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotorres01&layout=compact&theme=nord&hide_border=true"/>
+</div>
