@@ -15,5 +15,5 @@
 ---
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=joaotorres01&count_private=true&show_icons=true&theme=nord&hide=contribs&hide_border=true"/>
-<img style="height: 170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaotorres01&layout=compact&theme=nord&hide_border=true"/>
+<img style="height: 170px;" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=joaotorres01&layout=compact&theme=nord&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=joaotorres01&layout=compact&theme=nord&hide_border=true)"/>
 </div>
