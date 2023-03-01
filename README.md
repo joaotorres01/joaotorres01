@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Torres</h1>
 
-- 🔭 Master's Degree student in Informatics Engineering @ University of Minho
+- 🔭 Master's Degree student in Software Engineering @ University of Minho
   - Intelligent Systems (AI)
   - Knowledge Engineering (DB)
 
