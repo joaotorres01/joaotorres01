@@ -2,14 +2,14 @@
 
 - 🔭 Master's Degree student in Software Engineering @ University of Minho
   - Intelligent Systems (AI)
-    - Multi-Agent Systemns
+    - Agents and Multi-Agent Systems
     - Machine Learning
     - Deep Learning
-    - Ambient and Sensorization
+    - Sensorization and Environment
   - Knowledge Engineering (DB)
-    - NoSQL Databases
+    - NoSQL Databases Administration
     - Data Mining
-    - Intelligent Analysis in Big Data Systems
+    - Intelligent Big Data Analytics
 
 ---
 
