@@ -6,7 +6,7 @@
     - Machine Learning
     - Deep Learning
     - Sensorization and Environment
-  - Knowledge Engineering (DB)
+  - Knowledge Engineering (Data)
     - NoSQL Databases Administration
     - Data Mining
     - Intelligent Big Data Analytics
